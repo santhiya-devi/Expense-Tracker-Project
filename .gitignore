@@ -1,0 +1,8 @@
+*.user
+.vs
+bin
+obj
+/ExpenseTracker/packages
+/ExpenseTrackerGUI/Logo.resx
+/ExpenseTrackerGUI/Logo.Designer.cs
+/ExpenseTrackerGUI/Logo.cs
